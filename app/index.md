@@ -1,51 +1,77 @@
-# Alex Ito
+# Charles Verleyen
 
-1. 123 Manoa Drive Honolulu, HI 96822
-1. (808) 555-5555
-1. [github-url](https://github.com/USERNAME)
-1. [linkedin-url](linkedin-url)
+1. La Chenaie 3, 1390, Grez-Doiceau, Belgium
+1. +32 491 32 60 83
+1. [github-url](https://github.com/Charles1104)
+1. [linkedin-url](https://www.linkedin.com/in/charlesverleyen/)
 
 ## Objective
-I am a web developer...(what profession are you seeking?)
+I am in the process of becoming a data scientist. I will start a bootcamp in data sciences in San Francisco from September to December. I will be free to start working on January 2018 and aim to work in a multinational company where my mix of front-end and data sciences knowledge will be harnessed to attain objectives.
 
 ## Development Experience
 
-### Final Project Name 1
-#### [https://github.com/username/project](https://github.com/username/project)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+### Plantalytics
+#### [https://github.com/username/project](https://github.com/Charles1104/Plantalytics)
+##### June 2017
+- Platform to develop local agriculture in Oahu.
+- I developped all the database and server side using Postgresql, Sequelize and NodeJS
 
-### Hackathon Project Name 2
-#### [http://url.com](http://url.com)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+### Message Bored
+#### [http://url.com](https://github.com/Charles1104/Message-Bored)
+##### May 2017
+- Messaging platform developped with Angular
+- This was not a team project so I did contribute to everything on this project.
+
+### Express Gallery
+#### [http://url.com](https://github.com/Charles1104/express-gallery)
+##### May 2017
+- Gallery to display pictures from different users
+- I developped the database and server side. Fo authentification, I used the passport library. I also contributed on the front-side for the rendering of the views with handlebars.
+
 
 ## Professional Experience
 
-### Software Developer
-#### Acme Corp, Honolulu
-##### HI 2014 – Present
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
+### Strategic Sourcing Manager at CTA Group
+#### Antwerp, Belgium
+##### JUL 2015 – DEC 2016
+- Supplier Relationship Management with all reagent and grinding media suppliers for gold mines
+- Develop new suppliers according to various parameters (raw material price from market to market, product quality, etc.)
+
+### Procurement Manager at Kempinski Hotels
+#### Kinshasa, Democratic Republic of Congo
+##### JAN 2014 – JUN 2015
+-  Responsible for the procurement of every supplies of the hotel (Food & Beverage, Housekeeping material, IT material, Laundry material, Engineering material, etc.). Direct collaboration with all the head of departments for their requisitions.
+
+### Supplier Quality Engineer at General Electrics
+#### San Luis Potosi, Mexico
+##### JAN 2013 – DEC 2013
+-  Responsible for the procurement and quality compliance of electronic commodities from 30 suppliers (900 SKU in total)
+
 
 ## Education
 ### DevLeague
-#### Explanation of what this is
-##### Jan - June 2017
+#### DevLeague is an intense bootcamp based in Hawaii that trains motivated people to become full stack developper within twelve weeks.
+##### MAR - JUN 2017
 
-### Bachelor of Arts in Computer Science 
-#### Concentration in Computer Science 
-#### Cumulative GPA: 4.0
-##### University of Hawaii at Manoa , 2008 – 2009 
+### Master Degree in business engineering
+#### Concentration in Supply Chain Management
+#### Cumulative GPA: 3.0
+##### Louvain School Of Management & National University of Singapore , 2009 – 2012 
+
+### Bachelor Degree in business engineering
+#### Concentration in Statistics, Accounting and Finance
+#### Cumulative GPA: 3.0
+##### University Catholic of Louvain, 2006 – 2009 
 
 ## Technical Skills
 
-### Languages
+### Human Languages
+- French (native)
+- English (fluent)
+- Spanish (fluent)
+- Dutch (intermediate)
+
+### Coding Languages
 - JavaScript
 - HTML5
 - CSS3
@@ -66,15 +92,12 @@ I am a web developer...(what profession are you seeking?)
 - React
 - Redux
 - Angular
-- D3
 - SASS
 
 ### Server-Side Proficiencies
 - NodeJS
 - Express
-- Jade
 - Sequelize/Mongoose ORM
-- GraphQl
 
 ### Database Proficiencies
 - PostgreSQL
