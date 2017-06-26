@@ -6,7 +6,7 @@
 1. [linkedin-url](https://www.linkedin.com/in/charlesverleyen/)
 
 ## Objective
-I am in the process of becoming a data scientist. I will start a bootcamp in data sciences in San Francisco from September to December. I will be free to start working on January 2018 and aim to work in a multinational company where my mix of front-end and data sciences knowledge will be harnessed to attain objectives.
+I aim to work in a multinational company where my mix of front-end and data sciences knowledge will be harnessed to attain objectives.
 
 ## Development Experience
 
@@ -20,7 +20,6 @@ I am in the process of becoming a data scientist. I will start a bootcamp in dat
 #### [http://url.com](https://github.com/Charles1104/Message-Bored)
 ##### May 2017
 - Messaging platform developped with Angular
-- This was not a team project so I did contribute to everything on this project.
 
 ### Express Gallery
 #### [http://url.com](https://github.com/Charles1104/express-gallery)
@@ -40,7 +39,8 @@ I am in the process of becoming a data scientist. I will start a bootcamp in dat
 ### Procurement Manager at Kempinski Hotels
 #### Kinshasa, Democratic Republic of Congo
 ##### JAN 2014 – JUN 2015
--  Responsible for the procurement of every supplies of the hotel (Food & Beverage, Housekeeping material, IT material, Laundry material, Engineering material, etc.). Direct collaboration with all the head of departments for their requisitions.
+-  Responsible for the procurement of every supplies of the hotel (Food & Beverage, Housekeeping material, IT material, Laundry material and Engineering material. Direct collaboration with all the head of departments for their requisitions.
+- Responsible for the implementation of Microsoft Dynamics Nav 2013.
 
 ### Supplier Quality Engineer at General Electrics
 #### San Luis Potosi, Mexico
@@ -55,12 +55,10 @@ I am in the process of becoming a data scientist. I will start a bootcamp in dat
 
 ### Master Degree in business engineering
 #### Concentration in Supply Chain Management
-#### Cumulative GPA: 3.0
 ##### Louvain School Of Management & National University of Singapore , 2009 – 2012 
 
 ### Bachelor Degree in business engineering
 #### Concentration in Statistics, Accounting and Finance
-#### Cumulative GPA: 3.0
 ##### University Catholic of Louvain, 2006 – 2009 
 
 ## Technical Skills
@@ -97,7 +95,7 @@ I am in the process of becoming a data scientist. I will start a bootcamp in dat
 ### Server-Side Proficiencies
 - NodeJS
 - Express
-- Sequelize/Mongoose ORM
+- Sequelize ORM
 
 ### Database Proficiencies
 - PostgreSQL
@@ -109,9 +107,3 @@ I am in the process of becoming a data scientist. I will start a bootcamp in dat
 - Mocha
 - Chai
 - SuperTest
-
-### Business Development
-- Web layouts and wire-framing
-- Adobe Photoshop CS6
-- Adobe Illustrator CS6
-- Google AdWords
